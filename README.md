@@ -39,7 +39,7 @@ A simple desktop application built with **Python** and **Tkinter** that allows u
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.13.1  
 - External package: `requests`  
