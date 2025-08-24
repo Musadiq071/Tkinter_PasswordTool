@@ -13,14 +13,15 @@ A simple desktop application built with **Python** and **Tkinter** that allows u
 
 ## 📸 Screenshots
 
-### Main Window
-![Screenshot](images/screenshot1.png)
+### Main Window  
+![Main Window](MainTab.png)  
 
-### Password Checker
-![Screenshot](images/screenshot2.png)
+### Check Password Tab  
+![Check Password](passcheck.png)  
 
-### Password Generator
-![Screenshot](images/screenshot3.png)
+### Generate Password Tab  
+![Generate Password](passgen.png)  
+
 
 ---
 
