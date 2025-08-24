@@ -9,6 +9,21 @@ A simple desktop application built with **Python** and **Tkinter** that allows u
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### Main Window
+![Screenshot](images/screenshot1.png)
+
+### Password Checker
+![Screenshot](images/screenshot2.png)
+
+### Password Generator
+![Screenshot](images/screenshot3.png)
+
+---
+
 ##  Features
 
 ### 1. Check Password
